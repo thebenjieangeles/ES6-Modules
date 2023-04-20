@@ -1,5 +1,5 @@
 import "./style.css";
-import Player from "./src/Player";
+import Player from "./src/player";
 import Game from "./src/Game";
 
 // Create two players
